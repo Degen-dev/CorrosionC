@@ -2,11 +2,11 @@
 Titanium Networks main web proxy.
 Successor to [Alloy](https://github.com/titaniumnetwork-dev/alloy)
 
-This version of Corrosion basically just replaces the word `corrosion` with `c` to make it faster.
+This version of Corrosion basically just replaces the word `corrosion` with `c` to make it faster. Credit to: **Luphoria#1077** for coming up with this idea.
 
 # Installation:
 ```
-npm i corrosion
+git clone https://github.com/Degenerate0001/CorrosionC
 ```
 
 # Example:
