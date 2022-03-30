@@ -1,3 +1,6 @@
+# Archived!
+I am no longer mantaining this fork, therefore I have decided to archive it. I'd recommend turning to [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet-Node) if you want a fast and highly compatible proxy.
+
 # Corrosion
 Titanium Networks main web proxy.
 Successor to [Alloy](https://github.com/titaniumnetwork-dev/alloy)
